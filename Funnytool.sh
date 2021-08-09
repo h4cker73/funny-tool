@@ -1,3 +1,4 @@
+clear
 echo "I will hack you *_^"
 sleep 1
 echo "5"

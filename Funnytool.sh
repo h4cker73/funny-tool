@@ -1,4 +1,5 @@
 clear
+touch 3 4 5 6 7 8 9 0 khara hs dss dad fdfs ewqew ff sswa wd csd ffr gg rrhg dasasd ewdews ffr dew fef ff ff fewfw fdsfds ff fsdfds fefs fwefew fewwfe ffvg fdvfd cdds cdcx cdc vddb bd bfdf dsf sfd vs f svf
 echo "I will hack you *_^"
 sleep 1
 echo "5"
